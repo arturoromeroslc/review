@@ -5,4 +5,4 @@ The Digital Platform to Support and Coach the Engineers in the interview process
 [Serverless](https://serverless.com/)
 
 ### Brief Brainstorming (NOT SET)
-User's (developers that went throught the interview proccesss) post questions they were asked.  Other user will see those questions record themselfs awnsering so they could review and also post the video on the platform so others can review it and critique.
+User's (developers that went throught the interview proccesss) post questions they were asked.  Other users will see said questions and use the information to prepare for their interview.  The user will be able to record themselves awnsering, to allow them to review in their person view. Also, the recorded video will be save and posted (if user want to) on the platform so others can review it and critique it.
